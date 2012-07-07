@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+#
+# This is sample file for imagejoin.py
+#
+# Fomat:
+#     dx,dy,filename,sx,sy,width,height
+#
+# Mean:
+#     dx, dy -- destination coodinate
+#     filename -- image file name
+#     sx, sy -- source coodinate
+#     width, height -- source size
+# 
+0,0,tank_up.png,0,0,32,32
+32,0,tank_right.png,0,0,32,32
+0,32,tank_down.png,0,0,32,32
+32,32,tank_left.png,0,0,32,32

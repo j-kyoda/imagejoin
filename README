@@ -1,0 +1,16 @@
+imagejoin
+=========
+
+It is image join tool written in python.
+
+Required
+--------
+
+1. Python Imaging Library(http://www.pythonware.com/products/pil/)
+
+How to use
+----------
+
+1. Edit INFOFILE.(image file name, source area and destination coodinate)
+2. python ./imagejoin.py -p IMAGE_PATH -o OUTPUT_FILE INFOFILE
+
